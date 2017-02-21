@@ -1,6 +1,6 @@
 # Hakyll + ogmarkup
 
-With the module, you can use the ogmarkup language to write your stories and
+With the module, you can use the [ogmarkup](https://github.com/ogma-project/ogmarkup) language to write your stories and
 Hakyll to publish them.
 
 For instance, one can add the following lines (considering HakyllConf is a valid
